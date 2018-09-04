@@ -1,0 +1,42 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:50px;
+    background-color:#eeeeee;
+    height:300px;
+    width:120px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+.lab{
+    position:relative;
+}
+.lab .li_tab label{
+    position:absolute;
+    left: 120px;
+}
+.lab .li_tab label input{
+    width:150px;
+}
+.lab .li_tab label select{
+    width:150px;
+}
+.lab .li_tab{
+    margin-bottom: 10px;
+}
